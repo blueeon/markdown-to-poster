@@ -19,6 +19,7 @@ This React component renders Markdown as visually appealing social media images.
 - [x] Copy output as an image
 - [x] One-click deployment to platforms like Vercel
 - [x] Integrated image CORS proxy for easy insertion of online images into posters
+- [ ] One-click integration with AI Bot
 - [ ] Copy output as HTML code for pasting into emails and editors
 - [ ] More built-in templates
 
